@@ -1,0 +1,13 @@
+name = "Example"
+uuid = "5e6b6550-ac1d-48e9-b367-dbece71c0356"
+authors = ["Jaqueline Teixeira Diamantino"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
